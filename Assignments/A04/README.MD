@@ -1,6 +1,6 @@
 |                                  Speaker                                   |
 | :------------------------------------------------------------------------: |
-|             <img src="https://imgur.com/XBBiWxg" width="400">              |
+|          <img src="https://i.imgur.com/XBBiWxg.jpeg" width="400">          |
 |              This is a picture of a speaker and their topic.               |
 
 |                                   Poster                                   |
